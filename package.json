@@ -6,8 +6,8 @@
   "scripts": {
     "build": "tsc",
     "start": "node build/server.js",
-    "server": "ts-node-dev src/server.ts",
-    "tsc": "tsc -p tsconfig.json"
+    "tsc": "tsc -p tsconfig.json",
+    "server": "ts-node-dev src/server.ts"
   },
   "keywords": [],
   "author": "",
